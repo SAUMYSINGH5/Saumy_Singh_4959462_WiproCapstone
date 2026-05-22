@@ -10,13 +10,13 @@ __pycache__/
 .pytest_cache/
 
 # Allure results & reports (auto-generated)
-reports/allure-results/
-reports/allure-report/
-reports/screenshots/
-reports/
+# reports/allure-results/     ← commented out
+# reports/allure-report/      ← commented out
+# reports/screenshots/        ← commented out
+# reports/                    ← commented out
 
 # Logs
-logs/automation.log
+# logs/automation.log         ← commented out
 
 # IDE
 .idea/

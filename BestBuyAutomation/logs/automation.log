@@ -1,67 +1,68 @@
-2026-05-22 21:32:40,786 : INFO : conftest : Browser starting
-2026-05-22 21:32:44,726 : INFO : conftest : Browser ready
-2026-05-22 21:32:53,154 : INFO : pages.home_page : Country selected
-2026-05-22 21:33:16,826 : INFO : pages.home_page : Deal of the Day opened
-2026-05-22 21:33:31,674 : INFO : pages.deal_of_day_page : Product added to cart
-2026-05-22 21:33:43,539 : INFO : pages.cart_page : Checkout clicked
-2026-05-22 21:33:43,539 : INFO : tests.test_end_to_end : Email loaded: testuser@gmail.com
-2026-05-22 21:33:50,340 : INFO : pages.checkout_page : Email entered: testuser@gmail.com
-2026-05-22 21:33:52,462 : INFO : pages.checkout_page : Continue clicked
-2026-05-22 21:33:52,477 : INFO : tests.test_end_to_end : E2E test passed
-2026-05-22 21:33:52,477 : INFO : conftest : PASSED: test_end_to_end
-2026-05-22 21:33:52,632 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_end_to_end_20260522_213352.png
-2026-05-22 21:33:52,647 : INFO : conftest : Browser closing
-2026-05-22 21:33:55,280 : INFO : conftest : Browser starting
-2026-05-22 21:33:59,604 : INFO : conftest : Browser ready
-2026-05-22 21:34:07,955 : INFO : pages.home_page : Country selected
-2026-05-22 21:34:30,771 : INFO : pages.home_page : Deal of the Day opened
-2026-05-22 21:34:30,793 : INFO : conftest : PASSED: test_01_open_deal_of_day
-2026-05-22 21:34:31,037 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_01_open_deal_of_day_20260522_213430.png
-2026-05-22 21:34:31,057 : INFO : conftest : Browser closing
-2026-05-22 21:34:33,601 : INFO : conftest : Browser starting
-2026-05-22 21:34:37,745 : INFO : conftest : Browser ready
-2026-05-22 21:34:45,346 : INFO : pages.home_page : Country selected
-2026-05-22 21:35:07,829 : INFO : pages.home_page : Deal of the Day opened
-2026-05-22 21:35:07,880 : INFO : conftest : PASSED: test_02_select_product_from_deal_list
-2026-05-22 21:35:08,138 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_02_select_product_from_deal_list_20260522_213507.png
-2026-05-22 21:35:08,153 : INFO : conftest : Browser closing
-2026-05-22 21:35:10,679 : INFO : conftest : Browser starting
-2026-05-22 21:35:14,460 : INFO : conftest : Browser ready
-2026-05-22 21:35:22,551 : INFO : pages.home_page : Country selected
-2026-05-22 21:35:44,866 : INFO : pages.home_page : Deal of the Day opened
-2026-05-22 21:35:59,785 : INFO : pages.deal_of_day_page : Product added to cart
-2026-05-22 21:36:35,695 : INFO : pages.cart_page : Cart opened via header icon
-2026-05-22 21:36:45,728 : INFO : conftest : PASSED: test_03_add_product_to_cart
-2026-05-22 21:36:45,871 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_03_add_product_to_cart_20260522_213645.png
-2026-05-22 21:36:45,887 : INFO : conftest : Browser closing
-2026-05-22 21:36:48,557 : INFO : conftest : Browser starting
-2026-05-22 21:36:53,117 : INFO : conftest : Browser ready
-2026-05-22 21:37:01,346 : INFO : pages.home_page : Country selected
-2026-05-22 21:37:23,150 : INFO : pages.home_page : Deal of the Day opened
-2026-05-22 21:37:37,936 : INFO : pages.deal_of_day_page : Product added to cart
-2026-05-22 21:38:14,418 : INFO : pages.cart_page : Cart opened via header icon
-2026-05-22 21:38:17,632 : INFO : pages.cart_page : Checkout clicked
-2026-05-22 21:38:20,444 : INFO : conftest : PASSED: test_04_proceed_to_checkout
-2026-05-22 21:38:20,593 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_04_proceed_to_checkout_20260522_213820.png
-2026-05-22 21:38:20,608 : INFO : conftest : Browser closing
-2026-05-22 21:38:23,120 : INFO : conftest : Browser starting
-2026-05-22 21:38:27,016 : INFO : conftest : Browser ready
-2026-05-22 21:38:35,347 : INFO : pages.home_page : Country selected
-2026-05-22 21:38:58,232 : INFO : pages.home_page : Deal of the Day opened
-2026-05-22 21:39:13,010 : INFO : pages.deal_of_day_page : Product added to cart
-2026-05-22 21:39:49,451 : INFO : pages.cart_page : Cart opened via header icon
-2026-05-22 21:39:52,305 : INFO : pages.cart_page : Checkout clicked
-2026-05-22 21:39:52,305 : INFO : tests.test_positive_negative_tc : Invalid email loaded: invalidemail
-2026-05-22 21:39:57,577 : INFO : pages.checkout_page : Email entered: invalidemail
-2026-05-22 21:39:59,709 : INFO : pages.checkout_page : Continue clicked
-2026-05-22 21:39:59,957 : INFO : pages.checkout_page : Email error found
-2026-05-22 21:39:59,960 : INFO : conftest : PASSED: test_05_invalid_email
-2026-05-22 21:40:00,140 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_05_invalid_email_20260522_213959.png
-2026-05-22 21:40:00,161 : INFO : conftest : Browser closing
-2026-05-22 21:40:02,776 : INFO : conftest : Browser starting
-2026-05-22 21:40:07,063 : INFO : conftest : Browser ready
-2026-05-22 21:40:15,626 : INFO : pages.home_page : Country selected
-2026-05-22 21:40:49,528 : INFO : pages.cart_page : Cart opened via header icon
-2026-05-22 21:40:49,597 : INFO : conftest : PASSED: test_06_checkout_without_product
-2026-05-22 21:40:49,803 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_06_checkout_without_product_20260522_214049.png
-2026-05-22 21:40:49,816 : INFO : conftest : Browser closing
+2026-05-22 22:33:12,660 : INFO : conftest : Browser starting
+2026-05-22 22:33:18,207 : INFO : conftest : Browser ready
+2026-05-22 22:33:31,764 : INFO : pages.home_page : Country selected
+2026-05-22 22:34:16,950 : INFO : pages.home_page : Deal of the Day opened
+2026-05-22 22:34:31,463 : INFO : pages.deal_of_day_page : Product added to cart
+2026-05-22 22:34:59,608 : INFO : pages.deal_of_day_page : Navigated to cart
+2026-05-22 22:35:03,591 : INFO : pages.cart_page : Checkout clicked
+2026-05-22 22:35:03,591 : INFO : tests.test_end_to_end : Email loaded: testuser@gmail.com
+2026-05-22 22:35:25,680 : INFO : pages.checkout_page : Email entered: testuser@gmail.com
+2026-05-22 22:35:27,808 : INFO : pages.checkout_page : Continue clicked
+2026-05-22 22:35:28,080 : INFO : tests.test_end_to_end : E2E test passed
+2026-05-22 22:35:28,080 : INFO : conftest : PASSED: test_end_to_end
+2026-05-22 22:35:28,270 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_end_to_end_20260522_223528.png
+2026-05-22 22:35:28,283 : INFO : conftest : Browser closing
+2026-05-22 22:35:30,807 : INFO : conftest : Browser starting
+2026-05-22 22:35:35,771 : INFO : conftest : Browser ready
+2026-05-22 22:36:24,771 : INFO : pages.home_page : Country selected
+2026-05-22 22:38:04,371 : INFO : pages.home_page : Deal of the Day opened
+2026-05-22 22:38:04,403 : INFO : conftest : PASSED: test_01_open_deal_of_day
+2026-05-22 22:38:04,659 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_01_open_deal_of_day_20260522_223804.png
+2026-05-22 22:38:04,671 : INFO : conftest : Browser closing
+2026-05-22 22:38:07,191 : INFO : conftest : Browser starting
+2026-05-22 22:38:20,275 : INFO : conftest : Browser ready
+2026-05-22 22:38:58,447 : INFO : pages.home_page : Country selected
+2026-05-22 22:40:55,065 : INFO : pages.home_page : Deal of the Day opened
+2026-05-22 22:40:55,104 : INFO : conftest : PASSED: test_02_select_product_from_deal_list
+2026-05-22 22:40:55,368 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_02_select_product_from_deal_list_20260522_224055.png
+2026-05-22 22:40:55,384 : INFO : conftest : Browser closing
+2026-05-22 22:40:57,845 : INFO : conftest : Browser starting
+2026-05-22 22:41:08,958 : INFO : conftest : Browser ready
+2026-05-22 22:41:37,189 : INFO : pages.home_page : Country selected
+2026-05-22 22:42:54,226 : INFO : pages.home_page : Deal of the Day opened
+2026-05-22 22:43:08,831 : INFO : pages.deal_of_day_page : Product added to cart
+2026-05-22 22:44:14,313 : INFO : pages.cart_page : Cart opened via header icon
+2026-05-22 22:44:24,377 : INFO : conftest : PASSED: test_03_add_product_to_cart
+2026-05-22 22:44:24,505 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_03_add_product_to_cart_20260522_224424.png
+2026-05-22 22:44:24,524 : INFO : conftest : Browser closing
+2026-05-22 22:44:27,162 : INFO : conftest : Browser starting
+2026-05-22 22:44:31,468 : INFO : conftest : Browser ready
+2026-05-22 22:44:42,527 : INFO : pages.home_page : Country selected
+2026-05-22 22:45:35,910 : INFO : pages.home_page : Deal of the Day opened
+2026-05-22 22:45:50,298 : INFO : pages.deal_of_day_page : Product added to cart
+2026-05-22 22:47:48,977 : INFO : pages.cart_page : Cart opened via header icon
+2026-05-22 22:47:52,751 : INFO : pages.cart_page : Checkout clicked
+2026-05-22 22:48:11,042 : INFO : conftest : PASSED: test_04_proceed_to_checkout
+2026-05-22 22:48:11,201 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_04_proceed_to_checkout_20260522_224811.png
+2026-05-22 22:48:11,211 : INFO : conftest : Browser closing
+2026-05-22 22:48:13,865 : INFO : conftest : Browser starting
+2026-05-22 22:48:21,722 : INFO : conftest : Browser ready
+2026-05-22 22:49:05,976 : INFO : pages.home_page : Country selected
+2026-05-22 22:49:55,448 : INFO : pages.home_page : Deal of the Day opened
+2026-05-22 22:50:09,826 : INFO : pages.deal_of_day_page : Product added to cart
+2026-05-22 22:51:34,327 : INFO : pages.cart_page : Cart opened via header icon
+2026-05-22 22:51:37,199 : INFO : pages.cart_page : Checkout clicked
+2026-05-22 22:51:37,199 : INFO : tests.test_positive_negative_tc : Invalid email loaded: invalidemail
+2026-05-22 22:51:48,017 : INFO : pages.checkout_page : Email entered: invalidemail
+2026-05-22 22:51:50,142 : INFO : pages.checkout_page : Continue clicked
+2026-05-22 22:51:50,483 : INFO : pages.checkout_page : Email error found
+2026-05-22 22:51:50,483 : INFO : conftest : PASSED: test_05_invalid_email
+2026-05-22 22:51:50,646 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_05_invalid_email_20260522_225150.png
+2026-05-22 22:51:50,664 : INFO : conftest : Browser closing
+2026-05-22 22:51:53,336 : INFO : conftest : Browser starting
+2026-05-22 22:52:00,214 : INFO : conftest : Browser ready
+2026-05-22 22:52:20,748 : INFO : pages.home_page : Country selected
+2026-05-22 22:53:13,049 : INFO : pages.cart_page : Cart opened via header icon
+2026-05-22 22:53:14,644 : INFO : conftest : PASSED: test_06_checkout_without_product
+2026-05-22 22:53:14,817 : INFO : utils.logger : Screenshot saved at: reports\screenshots\PASSED_test_06_checkout_without_product_20260522_225314.png
+2026-05-22 22:53:14,820 : INFO : conftest : Browser closing

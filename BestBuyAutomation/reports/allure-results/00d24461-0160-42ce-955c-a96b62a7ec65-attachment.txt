@@ -1,0 +1,5 @@
+[32mINFO    [0m conftest:conftest.py:16 Browser starting
+[32mINFO    [0m conftest:conftest.py:40 Browser ready
+[32mINFO    [0m pages.home_page:home_page.py:61 Country selected
+[32mINFO    [0m pages.home_page:home_page.py:76 Deal of the Day opened
+[32mINFO    [0m conftest:conftest.py:44 Browser closing

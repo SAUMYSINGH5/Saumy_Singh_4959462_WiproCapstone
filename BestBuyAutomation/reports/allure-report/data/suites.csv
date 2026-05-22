@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Verifies that Deal of the Day page opens successfully.","148628","Positive - Open Deal of the Day","tests","2026-05-22","passed","2026-05-22","","test_positive_negative_tc","",""
+"Verifies that a product can be selected from Deal of the Day list.","154824","Positive - Select Product from Deal List","tests","2026-05-22","passed","2026-05-22","","test_positive_negative_tc","",""
+"Verifies a product can be added to cart from Deal of the Day.","195417","Positive - Add Product Successfully","tests","2026-05-22","passed","2026-05-22","","test_positive_negative_tc","",""
+"Verifies that checkout page opens after adding product to cart.","219575","Positive - Proceed to Checkout","tests","2026-05-22","passed","2026-05-22","","test_positive_negative_tc","",""
+"Verifies that an empty cart is correctly detected at checkout.","74430","Negative - Checkout Without Product","tests","2026-05-22","passed","2026-05-22","","test_positive_negative_tc","",""
+"Selects a Deal of the Day product, adds to cart, proceeds to checkout, and enters email.","129871","End to End - Add Product and Proceed to Checkout","tests","2026-05-22","passed","2026-05-22","","test_end_to_end","",""
+"Verifies that an invalid email shows a validation error at checkout.","208759","Negative - Invalid Email at Checkout","tests","2026-05-22","passed","2026-05-22","","test_positive_negative_tc","",""
