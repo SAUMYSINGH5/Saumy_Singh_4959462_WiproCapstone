@@ -1,0 +1,12 @@
+[32mINFO    [0m conftest:conftest.py:14 Browser starting
+[32mINFO    [0m conftest:conftest.py:38 Browser ready
+[32mINFO    [0m pages.home_page:home_page.py:61 Country selected
+[32mINFO    [0m pages.home_page:home_page.py:76 Deal of the Day opened
+[32mINFO    [0m pages.deal_of_day_page:deal_of_day_page.py:112 Product added to cart
+[32mINFO    [0m pages.deal_of_day_page:deal_of_day_page.py:130 Navigated to cart
+[32mINFO    [0m pages.cart_page:cart_page.py:91 Checkout clicked
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:43 Email loaded: testuser@gmail.com
+[32mINFO    [0m pages.checkout_page:checkout_page.py:63 Email entered: testuser@gmail.com
+[32mINFO    [0m pages.checkout_page:checkout_page.py:69 Continue clicked
+[32mINFO    [0m tests.test_end_to_end:test_end_to_end.py:53 E2E test passed
+[32mINFO    [0m conftest:conftest.py:42 Browser closing

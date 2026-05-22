@@ -1,0 +1,5 @@
+[32mINFO    [0m conftest:conftest.py:14 Browser starting
+[32mINFO    [0m conftest:conftest.py:38 Browser ready
+[32mINFO    [0m pages.home_page:home_page.py:61 Country selected
+[32mINFO    [0m pages.cart_page:cart_page.py:71 Cart opened via header icon
+[32mINFO    [0m conftest:conftest.py:42 Browser closing
