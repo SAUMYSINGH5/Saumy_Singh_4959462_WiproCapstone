@@ -1,3 +1,5 @@
+import os
+import subprocess
 import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -42,6 +44,29 @@ def driver():
     logger.info("Browser closing")
     print("\nClosing Browser...")
     driver.quit()
+
+
+def pytest_sessionfinish(session, exitstatus):
+    """Automatically generate Allure HTML report after test session ends."""
+    allure_results_dir = "reports/allure-results"
+    allure_report_dir  = "reports/allure-report"
+
+    os.makedirs(allure_report_dir, exist_ok=True)
+
+    try:
+        result = subprocess.run(
+            ["allure", "generate", allure_results_dir,
+             "--output", allure_report_dir, "--clean"],
+            capture_output=True,
+            text=True
+        )
+        if result.returncode == 0:
+            print(f"\n✅ Allure report generated: {allure_report_dir}/index.html")
+        else:
+            print(f"\n⚠️  Allure generate error: {result.stderr.strip()}")
+    except FileNotFoundError:
+        print("\n⚠️  'allure' command not found. "
+              "Install Allure CLI and make sure it is on your PATH.")
 
 
 @pytest.hookimpl(tryfirst=True, hookwrapper=True)

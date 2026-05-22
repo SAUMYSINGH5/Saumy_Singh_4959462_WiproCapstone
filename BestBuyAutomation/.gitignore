@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest cache
+.pytest_cache/
+
+# Allure results & reports (auto-generated)
+reports/allure-results/
+reports/allure-report/
+reports/screenshots/
+reports/
+
+# Logs
+logs/automation.log
+
+# IDE
+.idea/
+*.iml
