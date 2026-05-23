@@ -1,0 +1,141 @@
+2026-05-23 14:24:43 - INFO - Starting test run
+2026-05-23 14:24:43 - INFO - Running: TC01 - Open Deal of the Day
+2026-05-23 14:24:45 - INFO - Browser open
+2026-05-23 14:24:46 - INFO - Opened Best Buy
+2026-05-23 14:24:54 - INFO - Country selected
+2026-05-23 14:24:54 - INFO - Country selected
+2026-05-23 14:25:14 - INFO - Deal of day opened
+2026-05-23 14:25:14 - INFO - Navigated to Deal of the Day
+2026-05-23 14:25:14 - INFO - Deal of the Day page verified
+2026-05-23 14:25:15 - INFO - Screenshot saved at: reports\screenshots\PASSED_TC01_-_Open_Deal_of_the_Day_20260523_142515.png
+2026-05-23 14:25:15 - INFO - Passed: TC01 - Open Deal of the Day
+2026-05-23 14:25:17 - INFO - Browser closed
+2026-05-23 14:25:17 - INFO - Running: TC02 - Select Product from Deal List
+2026-05-23 14:25:19 - INFO - Browser open
+2026-05-23 14:25:20 - INFO - Opened Best Buy
+2026-05-23 14:25:27 - INFO - Country selected
+2026-05-23 14:25:27 - INFO - Country selected
+2026-05-23 14:25:49 - INFO - Deal of day opened
+2026-05-23 14:25:49 - INFO - Navigated to Deal of the Day
+2026-05-23 14:25:49 - INFO - First product selected
+2026-05-23 14:25:49 - INFO - Product details page verified
+2026-05-23 14:25:50 - INFO - Screenshot saved at: reports\screenshots\PASSED_TC02_-_Select_Product_from_Deal_List_20260523_142550.png
+2026-05-23 14:25:50 - INFO - Passed: TC02 - Select Product from Deal List
+2026-05-23 14:25:52 - INFO - Browser closed
+2026-05-23 14:25:52 - INFO - Running: TC03 - Add Product to Cart
+2026-05-23 14:25:54 - INFO - Browser open
+2026-05-23 14:25:55 - INFO - Opened Best Buy
+2026-05-23 14:26:03 - INFO - Country selected
+2026-05-23 14:26:03 - INFO - Country selected
+2026-05-23 14:26:23 - INFO - Deal of day opened
+2026-05-23 14:26:23 - INFO - Navigated to Deal of the Day
+2026-05-23 14:26:24 - INFO - First product selected
+2026-05-23 14:26:38 - INFO - Added to cart
+2026-05-23 14:26:38 - INFO - Added to cart
+2026-05-23 14:26:59 - INFO - Cart opened via flyout
+2026-05-23 14:26:59 - INFO - Cart opened
+2026-05-23 14:27:10 - INFO - Cart has items
+2026-05-23 14:27:10 - INFO - Screenshot saved at: reports\screenshots\PASSED_TC03_-_Add_Product_to_Cart_20260523_142710.png
+2026-05-23 14:27:10 - INFO - Passed: TC03 - Add Product to Cart
+2026-05-23 14:27:12 - INFO - Browser closed
+2026-05-23 14:27:12 - INFO - Running: TC04 - Proceed to Checkout
+2026-05-23 14:27:14 - INFO - Browser open
+2026-05-23 14:27:16 - INFO - Opened Best Buy
+2026-05-23 14:27:23 - INFO - Country selected
+2026-05-23 14:27:23 - INFO - Country selected
+2026-05-23 14:27:44 - INFO - Deal of day opened
+2026-05-23 14:27:44 - INFO - Navigated to Deal of the Day
+2026-05-23 14:27:44 - INFO - First product selected
+2026-05-23 14:27:58 - INFO - Added to cart
+2026-05-23 14:27:58 - INFO - Added to cart
+2026-05-23 14:28:20 - INFO - Cart opened via flyout
+2026-05-23 14:28:20 - INFO - Cart opened
+2026-05-23 14:28:21 - INFO - Checkout clicked (attempt 1)
+2026-05-23 14:28:25 - WARNING - Delivery unavailable banner detected. Switching ALL cart items to Pickup at Aiea.
+2026-05-23 14:28:25 - INFO - Found 2 Pickup radio(s) on page.
+2026-05-23 14:28:26 - INFO - Pickup radio [0] clicked (id='fulfillment-ispu-1xdb6hfwuzu9d-4pmmaxu9ejwga').
+2026-05-23 14:28:29 - INFO - Pickup radio [1] clicked (id='fulfillment-ispu-1xd92ctzes4xd-4pml0540gbjgs').
+2026-05-23 14:28:31 - INFO - Switched 2 item(s) to Pickup.
+2026-05-23 14:28:41 - INFO - Delivery banner gone — all items set to Pickup.
+2026-05-23 14:28:43 - INFO - Checkout clicked (attempt 2 — after switching 2 item(s) to Pickup)
+2026-05-23 14:28:47 - INFO - Post-checkout URL: https://www.bestbuy.com/identity/signin?token=tid%3A9ab443dc-5685-11f1-9ed4-02e51a9350d1
+2026-05-23 14:28:47 - INFO - Checkout clicked
+2026-05-23 14:28:47 - INFO - On checkout page
+2026-05-23 14:28:48 - INFO - Screenshot saved at: reports\screenshots\PASSED_TC04_-_Proceed_to_Checkout_20260523_142848.png
+2026-05-23 14:28:48 - INFO - Passed: TC04 - Proceed to Checkout
+2026-05-23 14:28:50 - INFO - Browser closed
+2026-05-23 14:28:50 - INFO - Running: TC05 - Invalid Email at Checkout
+2026-05-23 14:28:52 - INFO - Browser open
+2026-05-23 14:28:53 - INFO - Opened Best Buy
+2026-05-23 14:29:01 - INFO - Country selected
+2026-05-23 14:29:01 - INFO - Country selected
+2026-05-23 14:29:24 - INFO - Deal of day opened
+2026-05-23 14:29:24 - INFO - Navigated to Deal of the Day
+2026-05-23 14:29:24 - INFO - First product selected
+2026-05-23 14:29:38 - INFO - Added to cart
+2026-05-23 14:29:38 - INFO - Added to cart
+2026-05-23 14:29:57 - INFO - Cart opened via flyout
+2026-05-23 14:29:57 - INFO - Cart opened
+2026-05-23 14:29:59 - INFO - Checkout clicked (attempt 1)
+2026-05-23 14:30:03 - WARNING - Delivery unavailable banner detected. Switching ALL cart items to Pickup at Aiea.
+2026-05-23 14:30:03 - INFO - Found 2 Pickup radio(s) on page.
+2026-05-23 14:30:04 - INFO - Pickup radio [0] clicked (id='fulfillment-ispu-4rzomzm9nroxd-3xxaenq9x4tet').
+2026-05-23 14:30:07 - INFO - Pickup radio [1] clicked (id='fulfillment-ispu-4rzloeuq2ulf5-3xxaju3p89juv').
+2026-05-23 14:30:09 - INFO - Switched 2 item(s) to Pickup.
+2026-05-23 14:30:20 - INFO - Delivery banner gone — all items set to Pickup.
+2026-05-23 14:30:22 - INFO - Checkout clicked (attempt 2 — after switching 2 item(s) to Pickup)
+2026-05-23 14:30:26 - INFO - Post-checkout URL: https://www.bestbuy.com/identity/signin?token=tid%3Ad58a849d-5685-11f1-993b-02fd630c3711
+2026-05-23 14:30:26 - INFO - Checkout clicked
+2026-05-23 14:30:26 - INFO - On checkout page
+2026-05-23 14:30:29 - INFO - Email entered: invalidemail@@@.com
+2026-05-23 14:30:29 - INFO - Invalid email entered: invalidemail@@@.com
+2026-05-23 14:30:31 - INFO - Continue clicked
+2026-05-23 14:30:31 - INFO - Continue clicked
+2026-05-23 14:30:32 - INFO - Email error found
+2026-05-23 14:30:32 - INFO - Email error displayed
+2026-05-23 14:30:32 - INFO - Screenshot saved at: reports\screenshots\PASSED_TC05_-_Invalid_Email_at_Checkout_20260523_143032.png
+2026-05-23 14:30:32 - INFO - Passed: TC05 - Invalid Email at Checkout
+2026-05-23 14:30:34 - INFO - Browser closed
+2026-05-23 14:30:34 - INFO - Running: TC06 - Checkout Without Product
+2026-05-23 14:30:36 - INFO - Browser open
+2026-05-23 14:30:37 - INFO - Opened Best Buy
+2026-05-23 14:30:46 - INFO - Country selected
+2026-05-23 14:30:46 - INFO - Country selected
+2026-05-23 14:31:18 - INFO - Cart opened via header icon
+2026-05-23 14:31:18 - INFO - Opened cart directly
+2026-05-23 14:31:19 - INFO - Cart is empty
+2026-05-23 14:31:19 - INFO - Screenshot saved at: reports\screenshots\PASSED_TC06_-_Checkout_Without_Product_20260523_143119.png
+2026-05-23 14:31:19 - INFO - Passed: TC06 - Checkout Without Product
+2026-05-23 14:31:21 - INFO - Browser closed
+2026-05-23 14:31:21 - INFO - Running: TC07 - End to End - Deal of Day to Checkout with Email
+2026-05-23 14:31:23 - INFO - Browser open
+2026-05-23 14:31:25 - INFO - Opened Best Buy
+2026-05-23 14:31:32 - INFO - Country selected
+2026-05-23 14:31:32 - INFO - Country selected
+2026-05-23 14:31:54 - INFO - Deal of day opened
+2026-05-23 14:31:54 - INFO - Navigated to Deal of the Day
+2026-05-23 14:31:54 - INFO - First product selected
+2026-05-23 14:32:09 - INFO - Added to cart
+2026-05-23 14:32:09 - INFO - Added to cart
+2026-05-23 14:32:29 - INFO - Cart opened via flyout
+2026-05-23 14:32:29 - INFO - Cart opened
+2026-05-23 14:32:30 - INFO - Checkout clicked (attempt 1)
+2026-05-23 14:32:34 - WARNING - Delivery unavailable banner detected. Switching ALL cart items to Pickup at Aiea.
+2026-05-23 14:32:34 - INFO - Found 2 Pickup radio(s) on page.
+2026-05-23 14:32:35 - INFO - Pickup radio [0] clicked (id='fulfillment-ispu-azxqikwr2l0x-3xxbzb6tiea9g').
+2026-05-23 14:32:38 - INFO - Pickup radio [1] clicked (id='fulfillment-ispu-azurxtd65hip-3xxb5pg4vsfcu').
+2026-05-23 14:32:40 - INFO - Switched 2 item(s) to Pickup.
+2026-05-23 14:32:50 - INFO - Delivery banner gone — all items set to Pickup.
+2026-05-23 14:32:52 - INFO - Checkout clicked (attempt 2 — after switching 2 item(s) to Pickup)
+2026-05-23 14:32:56 - INFO - Post-checkout URL: https://www.bestbuy.com/identity/signin?token=tid%3A2ef60f85-5686-11f1-993b-02fd630c3711
+2026-05-23 14:32:56 - INFO - Checkout clicked
+2026-05-23 14:32:56 - INFO - On checkout page
+2026-05-23 14:32:59 - INFO - Email entered: testuser@example.com
+2026-05-23 14:32:59 - INFO - Email entered: testuser@example.com
+2026-05-23 14:33:01 - INFO - Continue clicked
+2026-05-23 14:33:01 - INFO - Continue clicked
+2026-05-23 14:33:02 - INFO - Next step loaded: https://www.bestbuy.com/identity/signin?token=tid%3A2ef60f85-5686-11f1-993b-02fd630c3711
+2026-05-23 14:33:02 - INFO - Screenshot saved at: reports\screenshots\PASSED_TC07_-_End_to_End_-_Deal_of_Day_to_Checkout_with_Email_20260523_143302.png
+2026-05-23 14:33:02 - INFO - Passed: TC07 - End to End - Deal of Day to Checkout with Email
+2026-05-23 14:33:04 - INFO - Browser closed
+2026-05-23 14:33:04 - INFO - Test run complete

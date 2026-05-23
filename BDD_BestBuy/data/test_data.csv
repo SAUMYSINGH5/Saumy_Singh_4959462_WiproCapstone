@@ -1,0 +1,4 @@
+type,email
+valid,testuser@example.com
+invalid,invalidemail@
+invalid,notanemail

@@ -1,0 +1,29 @@
+2026-05-23 14:31:21 - INFO - ====== WebDriver manager ======
+2026-05-23 14:31:22 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:31:23 - INFO - Browser open
+2026-05-23 14:31:25 - INFO - Opened Best Buy
+2026-05-23 14:31:32 - INFO - Country selected
+2026-05-23 14:31:32 - INFO - Country selected
+2026-05-23 14:31:54 - INFO - Deal of day opened
+2026-05-23 14:31:54 - INFO - Navigated to Deal of the Day
+2026-05-23 14:31:54 - INFO - First product selected
+2026-05-23 14:32:09 - INFO - Added to cart
+2026-05-23 14:32:09 - INFO - Added to cart
+2026-05-23 14:32:29 - INFO - Cart opened via flyout
+2026-05-23 14:32:29 - INFO - Cart opened
+2026-05-23 14:32:30 - INFO - Checkout clicked (attempt 1)
+2026-05-23 14:32:34 - WARNING - Delivery unavailable banner detected. Switching ALL cart items to Pickup at Aiea.
+2026-05-23 14:32:34 - INFO - Found 2 Pickup radio(s) on page.
+2026-05-23 14:32:35 - INFO - Pickup radio [0] clicked (id='fulfillment-ispu-azxqikwr2l0x-3xxbzb6tiea9g').
+2026-05-23 14:32:38 - INFO - Pickup radio [1] clicked (id='fulfillment-ispu-azurxtd65hip-3xxb5pg4vsfcu').
+2026-05-23 14:32:40 - INFO - Switched 2 item(s) to Pickup.
+2026-05-23 14:32:50 - INFO - Delivery banner gone — all items set to Pickup.
+2026-05-23 14:32:52 - INFO - Checkout clicked (attempt 2 — after switching 2 item(s) to Pickup)
+2026-05-23 14:32:56 - INFO - Post-checkout URL: https://www.bestbuy.com/identity/signin?token=tid%3A2ef60f85-5686-11f1-993b-02fd630c3711
+2026-05-23 14:32:56 - INFO - Checkout clicked
+2026-05-23 14:32:56 - INFO - On checkout page
+2026-05-23 14:32:59 - INFO - Email entered: testuser@example.com
+2026-05-23 14:32:59 - INFO - Email entered: testuser@example.com
+2026-05-23 14:33:01 - INFO - Continue clicked
+2026-05-23 14:33:01 - INFO - Continue clicked
+2026-05-23 14:33:02 - INFO - Next step loaded: https://www.bestbuy.com/identity/signin?token=tid%3A2ef60f85-5686-11f1-993b-02fd630c3711

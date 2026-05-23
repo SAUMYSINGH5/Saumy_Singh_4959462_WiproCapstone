@@ -1,0 +1,9 @@
+2026-05-23 14:24:43 - INFO - ====== WebDriver manager ======
+2026-05-23 14:24:44 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:24:45 - INFO - Browser open
+2026-05-23 14:24:46 - INFO - Opened Best Buy
+2026-05-23 14:24:54 - INFO - Country selected
+2026-05-23 14:24:54 - INFO - Country selected
+2026-05-23 14:25:14 - INFO - Deal of day opened
+2026-05-23 14:25:14 - INFO - Navigated to Deal of the Day
+2026-05-23 14:25:14 - INFO - Deal of the Day page verified

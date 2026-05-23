@@ -1,0 +1,30 @@
+2026-05-23 14:28:50 - INFO - ====== WebDriver manager ======
+2026-05-23 14:28:51 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:28:52 - INFO - Browser open
+2026-05-23 14:28:53 - INFO - Opened Best Buy
+2026-05-23 14:29:01 - INFO - Country selected
+2026-05-23 14:29:01 - INFO - Country selected
+2026-05-23 14:29:24 - INFO - Deal of day opened
+2026-05-23 14:29:24 - INFO - Navigated to Deal of the Day
+2026-05-23 14:29:24 - INFO - First product selected
+2026-05-23 14:29:38 - INFO - Added to cart
+2026-05-23 14:29:38 - INFO - Added to cart
+2026-05-23 14:29:57 - INFO - Cart opened via flyout
+2026-05-23 14:29:57 - INFO - Cart opened
+2026-05-23 14:29:59 - INFO - Checkout clicked (attempt 1)
+2026-05-23 14:30:03 - WARNING - Delivery unavailable banner detected. Switching ALL cart items to Pickup at Aiea.
+2026-05-23 14:30:03 - INFO - Found 2 Pickup radio(s) on page.
+2026-05-23 14:30:04 - INFO - Pickup radio [0] clicked (id='fulfillment-ispu-4rzomzm9nroxd-3xxaenq9x4tet').
+2026-05-23 14:30:07 - INFO - Pickup radio [1] clicked (id='fulfillment-ispu-4rzloeuq2ulf5-3xxaju3p89juv').
+2026-05-23 14:30:09 - INFO - Switched 2 item(s) to Pickup.
+2026-05-23 14:30:20 - INFO - Delivery banner gone — all items set to Pickup.
+2026-05-23 14:30:22 - INFO - Checkout clicked (attempt 2 — after switching 2 item(s) to Pickup)
+2026-05-23 14:30:26 - INFO - Post-checkout URL: https://www.bestbuy.com/identity/signin?token=tid%3Ad58a849d-5685-11f1-993b-02fd630c3711
+2026-05-23 14:30:26 - INFO - Checkout clicked
+2026-05-23 14:30:26 - INFO - On checkout page
+2026-05-23 14:30:29 - INFO - Email entered: invalidemail@@@.com
+2026-05-23 14:30:29 - INFO - Invalid email entered: invalidemail@@@.com
+2026-05-23 14:30:31 - INFO - Continue clicked
+2026-05-23 14:30:31 - INFO - Continue clicked
+2026-05-23 14:30:32 - INFO - Email error found
+2026-05-23 14:30:32 - INFO - Email error displayed

@@ -1,0 +1,24 @@
+2026-05-23 14:27:12 - INFO - ====== WebDriver manager ======
+2026-05-23 14:27:13 - INFO - Driver [C:\Users\KIIT\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:27:14 - INFO - Browser open
+2026-05-23 14:27:16 - INFO - Opened Best Buy
+2026-05-23 14:27:23 - INFO - Country selected
+2026-05-23 14:27:23 - INFO - Country selected
+2026-05-23 14:27:44 - INFO - Deal of day opened
+2026-05-23 14:27:44 - INFO - Navigated to Deal of the Day
+2026-05-23 14:27:44 - INFO - First product selected
+2026-05-23 14:27:58 - INFO - Added to cart
+2026-05-23 14:27:58 - INFO - Added to cart
+2026-05-23 14:28:20 - INFO - Cart opened via flyout
+2026-05-23 14:28:20 - INFO - Cart opened
+2026-05-23 14:28:21 - INFO - Checkout clicked (attempt 1)
+2026-05-23 14:28:25 - WARNING - Delivery unavailable banner detected. Switching ALL cart items to Pickup at Aiea.
+2026-05-23 14:28:25 - INFO - Found 2 Pickup radio(s) on page.
+2026-05-23 14:28:26 - INFO - Pickup radio [0] clicked (id='fulfillment-ispu-1xdb6hfwuzu9d-4pmmaxu9ejwga').
+2026-05-23 14:28:29 - INFO - Pickup radio [1] clicked (id='fulfillment-ispu-1xd92ctzes4xd-4pml0540gbjgs').
+2026-05-23 14:28:31 - INFO - Switched 2 item(s) to Pickup.
+2026-05-23 14:28:41 - INFO - Delivery banner gone — all items set to Pickup.
+2026-05-23 14:28:43 - INFO - Checkout clicked (attempt 2 — after switching 2 item(s) to Pickup)
+2026-05-23 14:28:47 - INFO - Post-checkout URL: https://www.bestbuy.com/identity/signin?token=tid%3A9ab443dc-5685-11f1-9ed4-02e51a9350d1
+2026-05-23 14:28:47 - INFO - Checkout clicked
+2026-05-23 14:28:47 - INFO - On checkout page

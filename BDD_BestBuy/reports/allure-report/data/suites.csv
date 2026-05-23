@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","97882","TC04 - Proceed to Checkout","","2026-05-23","passed","2026-05-23","","","",""
+"","33882","TC01 - Open Deal of the Day","","2026-05-23","passed","2026-05-23","","","",""
+"","80245","TC03 - Add Product to Cart","","2026-05-23","passed","2026-05-23","","","",""
+"","47197","TC06 - Checkout Without Product","","2026-05-23","passed","2026-05-23","","","",""
+"","34854","TC02 - Select Product from Deal List","","2026-05-23","passed","2026-05-23","","","",""
+"","104067","TC05 - Invalid Email at Checkout","","2026-05-23","passed","2026-05-23","","","",""
+"","102843","TC07 - End to End - Deal of Day to Checkout with Email","","2026-05-23","passed","2026-05-23","","","",""
